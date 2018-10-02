@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="footer.ascx.cs" Inherits="footer" %>
+<p style="background-color:Aqua; font-family:'Arial Narrow'; text-decoration:blink; cursor: pointer;">Patkar</p>
